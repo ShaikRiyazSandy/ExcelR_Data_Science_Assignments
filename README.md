@@ -1,20 +1,14 @@
 # Excelr_Data_Science_Assignments
 
 ## Find all EXCELR Data Science Assignment Here
-
-
-
 ___
 
 ## Author
-
 <table>
 <tr>
 <td>
      <img src="https://avatars.githubusercontent.com/u/161717517?v=4/" width="180"/>
-     
-     shaikriyazsandy@gmail.com
-
+          shaikriyazsandy@gmail.com
 <p align="center">
 <a href = "https://github.com/ShaikRiyazSandy"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
 <a href = "https://twitter.com/ShaikRi04749930"><img src = "https://www.shareicon.net/download/2016/07/06/107115_media.svg" width="36" height="36"/></a>
@@ -23,5 +17,5 @@ ___
 </td>
 </tr> 
   </table>
-
+  
 **<h2>♡ Thank you for taking the time ♡**
