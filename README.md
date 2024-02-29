@@ -11,7 +11,7 @@ ___
 <table>
 <tr>
 <td>
-     <img src="https://avatars.githubusercontent.com/u/99672298?v=4" width="180](https://avatars.githubusercontent.com/u/161717517?s=400&u=fa7346187c99a01fd3ba3bdde1b4a647764a76a2&v=4)"/>
+     <img src="[https://avatars.githubusercontent.com/u/99672298?v=4" width="180](https://avatars.githubusercontent.com/u/161717517?s=400&u=fa7346187c99a01fd3ba3bdde1b4a647764a76a2&v=4)](https://avatars.githubusercontent.com/u/161717517?s=400&u=fa7346187c99a01fd3ba3bdde1b4a647764a76a2&v=4)"/>
      
      shaikriyazsandy@gmail.com
 
