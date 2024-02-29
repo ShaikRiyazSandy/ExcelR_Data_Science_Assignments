@@ -1,5 +1,4 @@
 # Excelr_Data_Science_Assignments
-Find all EXCELR Data Science Assignment Here
 
 ## Find all EXCELR Data Science Assignment Here
 
