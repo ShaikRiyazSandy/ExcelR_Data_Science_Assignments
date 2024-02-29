@@ -24,20 +24,4 @@ ___
 </tr> 
   </table>
 
-[Table of Content](#0.1)
-
-<div style="display:fill;
-            border-radius: false;
-            border-style: solid;
-            border-color:#000000;
-            border-style: false;
-            border-width: 2px;
-            color:#CF673A;
-            font-size:15px;
-            font-family: Georgia;
-            background-color:#E8DCCC;
-            text-align:center;
-            letter-spacing:0.1px;
-            padding: 0.1em;">
-
 **<h2>♡ Thank you for taking the time ♡**
