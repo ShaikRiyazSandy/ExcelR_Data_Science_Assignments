@@ -1,6 +1,8 @@
 # Excelr_Data_Science_Assignments
 
 ## Find all EXCELR Data Science Assignment Here
+
+### [Basic Statistics Level 1](https://github.com/MoinDalvs/Assignment-Basic-Stats-Level1)
 ___
 
 ## Author
