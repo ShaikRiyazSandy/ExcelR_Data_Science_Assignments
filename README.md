@@ -2,7 +2,7 @@
 
 ## Find all EXCELR Data Science Assignment Here
 
-### [Basic Statistics Level 1](https://github.com/MoinDalvs/Assignment-Basic-Stats-Level1)
+### [Basic Statistics Level 1]git@github.com:ShaikRiyazSandy/Basic-Statistics_Level-1.git
 ___
 
 ## Author
