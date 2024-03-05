@@ -5,6 +5,8 @@ s# Excelr_Data_Science_Assignments
 ### [Basic Statistics Level 1](https://github.com/ShaikRiyazSandy/Basic-Statistics_Level-1.git)
 
 ### [Basic Statistics Level 2](https://github.com/ShaikRiyazSandy/Basic-Statistics_Level-2.git)
+
+### [Hypothesis Testing](https://github.com/ShaikRiyazSandy/Hypothesis-Testing.git)
 ___
 
 ## Author
