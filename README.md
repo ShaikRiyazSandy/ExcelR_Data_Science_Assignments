@@ -7,6 +7,8 @@
 ### [Basic Statistics Level 2](https://github.com/ShaikRiyazSandy/Basic-Statistics_Level-2.git)
 
 ### [Hypothesis Testing](https://github.com/ShaikRiyazSandy/Hypothesis-Testing.git)
+
+### [Simple Linear Regression](https://github.com/ShaikRiyazSandy/Simple-Linear-Regression.git)
 ___
 
 ## Author
