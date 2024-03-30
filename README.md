@@ -9,6 +9,8 @@
 ### [Hypothesis Testing](https://github.com/ShaikRiyazSandy/Hypothesis-Testing.git)
 
 ### [Simple Linear Regression](https://github.com/ShaikRiyazSandy/Simple-Linear-Regression.git)
+
+### [Multi Linear Regression](https://github.com/ShaikRiyazSandy/Multi-Linear-Regression.git)
 ___
 
 ## Author
