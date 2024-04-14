@@ -1,6 +1,6 @@
 # Excelr_Data_Science_Assignments
 
-## Find all EXCELR Data Science Assignment Here
+## Find All EXCELR Data Science Assignment Here
 
 ### [Basic Statistics Level 1](https://github.com/ShaikRiyazSandy/Basic-Statistics_Level-1.git)
 
