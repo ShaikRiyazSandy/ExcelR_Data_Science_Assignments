@@ -11,6 +11,8 @@
 ### [Simple Linear Regression](https://github.com/ShaikRiyazSandy/Simple-Linear-Regression.git)
 
 ### [Multi Linear Regression](https://github.com/ShaikRiyazSandy/Multi-Linear-Regression.git)
+
+### [Logistic Regression](https://github.com/ShaikRiyazSandy/Logistic-Regression.git).
 ___
 
 ## Author
