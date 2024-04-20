@@ -2,7 +2,7 @@
 
 ## Find All EXCELR Data Science Assignment Here
 
-### [Basic Statistics Level 1]   (https://github.com/ShaikRiyazSandy/Basic-Statistics_Level-1.git)
+### [Basic Statistics Level 1](https://github.com/ShaikRiyazSandy/Basic-Statistics_Level-1.git)
 
 ### [Basic Statistics Level 2](https://github.com/ShaikRiyazSandy/Basic-Statistics_Level-2.git)
 
@@ -12,9 +12,9 @@
 
 ### [Multi Linear Regression](https://github.com/ShaikRiyazSandy/Multi-Linear-Regression.git)
 
-### [Logistic-Regression](https://github.com/ShaikRiyazSandy/Logistic-Regression.git).
+### [Logistic-Regression](https://github.com/ShaikRiyazSandy/Logistic-Regression.git)
 
-### [Clustering](https://github.com/ShaikRiyazSandy/Clustering.git).
+### [Clustering](https://github.com/ShaikRiyazSandy/Clustering.git)
 ___
 
 ## Author
