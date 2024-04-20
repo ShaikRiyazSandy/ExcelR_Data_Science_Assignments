@@ -13,6 +13,8 @@
 ### [Multi Linear Regression](https://github.com/ShaikRiyazSandy/Multi-Linear-Regression.git)
 
 ### [Logistic-Regression](https://github.com/ShaikRiyazSandy/Logistic-Regression.git).
+
+### [Clustering](https://github.com/ShaikRiyazSandy/Clustering.git).
 ___
 
 ## Author
