@@ -16,7 +16,7 @@
 
 ### [Clustering](https://github.com/ShaikRiyazSandy/Clustering.git)
 
-### [PCA_Wine_Dataset](https://github.com/ShaikRiyazSandy/Clustering.git)
+### [PCA_Wine_Dataset](https://github.com/ShaikRiyazSandy/PCA_Wine_Dataset.git)
 ___
 
 ## Author
